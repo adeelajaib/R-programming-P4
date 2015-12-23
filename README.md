@@ -14,4 +14,5 @@ The program rankhospital takes three arguments: the 2-character abbreviated name
 For example, in order to check which hospital is ranked 4th in Texas amongst hospitals with lowest 30-day mortality rate for heart failure we get 
 
 rankhospital("TX", "heart failure", 4)
+
 [1] "DETAR HOSPITAL NAVARRO"
